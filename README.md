@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Francyfirestrike
-- 👀 I’m interested in batch and in Python
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on PyBoxY, my most important project
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning Go
 
 <!---
 Francyfirestrike/Francyfirestrike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
